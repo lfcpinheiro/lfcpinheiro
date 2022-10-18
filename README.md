@@ -1,5 +1,5 @@
 Hi! I’m <b>Luiz Filipe Pinheiro</b> and currently a full stack web developer student at <b>Trybe</b>.<br>
-My plan is to use Github to save my repositories during the period of my study program. 
+My plan is to use Github to save my projects and exercices during the period of my study program. 
 <!--
 **lfcpinheiro/lfcpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
