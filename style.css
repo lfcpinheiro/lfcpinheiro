@@ -1,9 +1,18 @@
 
-body { background-color: rgb(253,251,251);
+body { background-color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     line-height: 120%;
     color: rgb(78,73,72);
     margin:0;
     }
-    
+
+#nome {
+    position: fixed;
+    height: 120px;
+    top: 0;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 200px;
+    text-align: center;
+    }
